@@ -13,7 +13,8 @@ last_modified_At: 2021-08-24
 
 ### 한요한 - 오아시스
 
-![image](/assets/images/21-08-24/210824_1.jpg)
+
+<img src="/assets/images/21-08-24/210824_1.jpg" width = 100px, height = 350px>
 
 한요한이라는 아티스트의 스타일에 빠져 찾아듣던중, 내가 힘들때 가장 힘을 많이 받았던 노래.
 
