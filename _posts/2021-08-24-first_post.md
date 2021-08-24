@@ -1,5 +1,5 @@
 ---
-title: "[Music] 21/08/24"
+title: "[Music] 한요한 - 오아시스"
 excerpt: "오늘의 노래"
 
 categories:
