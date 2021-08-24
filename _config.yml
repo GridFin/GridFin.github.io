@@ -102,7 +102,7 @@ analytics:
 # Site Author
 author:
   name             : "GridFin"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/우는 짱구.jpg"
   bio              : "."
   location         : "서울시 노원구"
   email            :
