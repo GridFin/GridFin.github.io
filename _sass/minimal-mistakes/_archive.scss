@@ -22,11 +22,13 @@
   position: relative;
 
   a {
+    text-decoration:none;
     position: relative;
     z-index: 10;
   }
 
   a[rel="permalink"] {
+    text-decoration:none;
     position: static;
   }
 }
