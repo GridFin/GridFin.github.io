@@ -21,6 +21,7 @@ TV 프로그램중 `더 지니어스` 시리즈를 정주행 하다, `더 지니
 멜로디와 **Lana Del Rey**의 음색이 마음에들어 바로 찾아 듣게 된 노래.
 
 가사 중,
+
 >Will you still love me when I'm no longer beautiful
 
 이 구절이 나에게 가장 큰 의미로 다가왔다.<br>
